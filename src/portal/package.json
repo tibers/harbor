@@ -77,7 +77,7 @@
     "@types/node": "^14.11.2",
     "codelyzer": "^6.0.0",
     "enhanced-resolve": "^3.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jasmine-spec-reporter": "~4.2.1",
     "js-yaml": "^3.13.1",
     "karma": "^5.2.2",
